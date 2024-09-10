@@ -72,7 +72,7 @@ There is no evidence that these effects are lagged to the following year.
 
 The causal effects are statistically significant at the 90% level.
 
-### 5.1 Parish Level
+### 5.2 Parish Level
 
 ![image](https://github.com/user-attachments/assets/502ec820-bf83-458e-b277-c40d0b2681e9)
 
@@ -88,7 +88,7 @@ There is evidence of a potential reverse causality (the increase in prices also 
 
 The causal effects are statistically significant at the 99% level.
 
-## 5. Conclusions
+## 6. Conclusions
 
 The analysis demonstrated a statistically significant positive causal effect between the supply of short-term rentals (AL) and the average price per square meter of housing at both the parish and municipal levels in Lisbon.
 
