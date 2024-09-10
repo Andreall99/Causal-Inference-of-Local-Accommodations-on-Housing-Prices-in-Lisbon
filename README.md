@@ -88,7 +88,7 @@ There is evidence of a potential reverse causality (the increase in prices also 
 
 The causal effects are statistically significant at the 99% level.
 
-## 5. Conclusões
+## 5. Conclusions
 
 The analysis demonstrated a statistically significant positive causal effect between the supply of short-term rentals (AL) and the average price per square meter of housing at both the parish and municipal levels in Lisbon.
 
