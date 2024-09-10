@@ -4,6 +4,8 @@
 
 Residential real estate prices in Lisbon have been growing exponentially, raising concerns about their affordability for local residents. This increase is driven by various factors, including economic recovery, foreign direct investment, and the city's tourism appeal. Additionally, many property owners have been converting residential properties into short-term local accommodations due to their higher profitability. However, few studies quantify the causal effect of this growth on housing prices. Descriptive analysis shows that the parishes with the highest growth in local accommodations do not exactly correspond to those where the greatest increases in housing prices have been observed, suggesting the influence of other variables in this relationship. This study uses observational time series data on the variables under study, including potential confounding variables, at the level of the Lisbon municipality and its parishes, between 2007 and 2023. Using econometric methods such as first-difference linear regression and fixed effects models, while controlling for potential confounding variables, the causal effects of the increase in local accommodation supply on the average housing prices per square meter at the municipal and parish levels were estimated.
 
+This work will consist of two files. The "Time Series" file will correspond to the study conducted on the municipality of Lisbon, and the "Data Panel" file will focus on its parishes
+
 ## 2. Data and Variables Definition
 
 Statistical inference methods, on which most current artificial intelligence is based, are used to make predictions assuming that the future will be similar to the past. They take advantage of the associations between observed data in independent variables (predictors) and the dependent variable (response) that is to be predicted. However, identifying the independent variables in a predictive model built on statistical methods that maximize the correlation between the independent and dependent variables does not guarantee that there is a causal relationship between them.
@@ -29,7 +31,6 @@ The reference interest rate for loans influences, on one hand, the ease of finan
 
 ## 3. Model Definition
 
-This work will consist of two files. The "Time Series" file will correspond to the study conducted on the municipality of Lisbon, and the "Data Panel" file will focus on its parishes.
 
 Three causal models were studied, measuring the absolute and relative effect (in €/m² and %) of the supply of local accommodations (ALs) on housing prices in Lisbon. At the municipal level, the impact of a new AL on housing prices across the entire city is analyzed, while at the parish level, the effect is measured within the specific parish where the AL is located. Above are the three Models.
 
